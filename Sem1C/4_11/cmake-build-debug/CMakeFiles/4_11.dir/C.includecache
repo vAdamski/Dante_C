@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adamski/Desktop/CLionProjects/4_11/format_type.h
+
+/Users/adamski/Desktop/CLionProjects/4_11/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+format_type.h
+/Users/adamski/Desktop/CLionProjects/4_11/format_type.h
+

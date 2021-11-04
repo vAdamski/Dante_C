@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adamski/Desktop/CLionProjects/4_8/image_utils.h
+
+/Users/adamski/Desktop/CLionProjects/4_8/main.c
+stdio.h
+-
+stdlib.h
+-
+image_utils.h
+/Users/adamski/Desktop/CLionProjects/4_8/image_utils.h
+

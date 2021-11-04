@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adamski/Desktop/CLionProjects/3_10/circular_buffer.h
+
+/Users/adamski/Desktop/CLionProjects/3_10/main.c
+stdio.h
+-
+circular_buffer.h
+/Users/adamski/Desktop/CLionProjects/3_10/circular_buffer.h
+

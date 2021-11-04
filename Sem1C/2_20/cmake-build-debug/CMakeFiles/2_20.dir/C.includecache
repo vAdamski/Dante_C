@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adamski/Desktop/CLionProjects/2_20/function.c
+function.h
+/Users/adamski/Desktop/CLionProjects/2_20/function.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+
+/Users/adamski/Desktop/CLionProjects/2_20/function.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adamski/Desktop/CLionProjects/4_4/main.c
+stdio.h
+-
+stdlib.h
+-
+matrix.h
+/Users/adamski/Desktop/CLionProjects/4_4/matrix.h
+
+/Users/adamski/Desktop/CLionProjects/4_4/matrix.c
+matrix.h
+/Users/adamski/Desktop/CLionProjects/4_4/matrix.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/adamski/Desktop/CLionProjects/4_4/matrix.h
+

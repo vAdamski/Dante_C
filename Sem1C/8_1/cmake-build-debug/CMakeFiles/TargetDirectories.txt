@@ -1,0 +1,3 @@
+/Users/adamski/Desktop/CLionProjects/8_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adamski/Desktop/CLionProjects/8_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adamski/Desktop/CLionProjects/8_1/cmake-build-debug/CMakeFiles/8_1.dir

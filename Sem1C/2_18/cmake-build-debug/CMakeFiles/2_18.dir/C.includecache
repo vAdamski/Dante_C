@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adamski/Desktop/CLionProjects/2_18/structurefile.c
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+structurefile.h
+/Users/adamski/Desktop/CLionProjects/2_18/structurefile.h
+
+/Users/adamski/Desktop/CLionProjects/2_18/structurefile.h
+
